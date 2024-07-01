@@ -65,18 +65,40 @@
   },
   "status": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Solicitado"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Em produção"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "Finalizado"
     }
   ],
   "burgers": [
+    {
+      "id": "92b4",
+      "nome": null,
+      "carne": null,
+      "pao": null,
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "c9bb",
+      "nome": "fer",
+      "carne": "Maminha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Tomate",
+        "Cebola roxa",
+        "Bacon"
+      ],
+      "status": "Solicitado"
+    }
   ]
 }
